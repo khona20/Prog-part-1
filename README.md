@@ -15,6 +15,11 @@ A special character
 Checks if the cell phone number is in South African format (+27 followed by 9 digits).
 Allows the user to register and then log in.
 
+Key Features
+Real time messaging
+Multi-Client support
+Uer Friendly 
+
 Requirements
 Java Developent Kit
 Any Java IDE 
